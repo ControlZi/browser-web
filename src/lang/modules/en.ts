@@ -17,7 +17,7 @@ export default {
   },
   search: {
     searchBtn: "Search",
-    placeHolder: "Search by block/Address/Block hash/Txn hash"
+    placeHolder: "Search by Address/BlockHeight/BlockHash/TxHash"
   },
   footer: {
     desc: "PlatScan is a Block Explorer and Analytics Platform for PlatON",
@@ -65,7 +65,7 @@ export default {
     morethen: "More Than",
     morethen2: "",
     status: "Status",
-    txhash: "Txhash",
+    txhash: "TxHash",
     timeStamp: "TimeStamp",
     blockHeight: "Block Height",
     tokens: "Tokens Transferred",
@@ -334,6 +334,7 @@ export default {
     blockHash: "Block Hash",
     parentHash: "Parent Hash",
     extraData: "Extra Data",
+    postscript: "Postscript",
     blockDetail: "BLOCK DETAILS",
     blockInformation: "Block Information",
     operatorAddress: "Operator_Address",
