@@ -1,4 +1,4 @@
-# Alaya Blockchain Browser
+# Blockchain Browser
 
 ## start
 
